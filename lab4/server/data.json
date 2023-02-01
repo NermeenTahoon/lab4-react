@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "username": "nermeen",
+      "email": "nemo@n",
+      "password": "nemo1111"
+    },
+    {
+      "id": "4",
+      "username": "ahmed",
+      "email": "ahm@n",
+      "password": "ahmed44"
+    },
+    {
+      "username": "nemo",
+      "password": "000888775",
+      "id": "6"
+    },
+    {
+      "id": "7",
+      "username": "tamer",
+      "email": "temo@h",
+      "password": "tamora33"
+    },
+    {
+      "username": "maram",
+      "password": " 44444333",
+      "id": "m5Ybo7G"
+    }
+  ]
+}
